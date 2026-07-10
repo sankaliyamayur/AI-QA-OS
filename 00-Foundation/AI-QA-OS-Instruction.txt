@@ -1,0 +1,182 @@
+AI-QA-OS Architecture Analysis Instruction
+
+
+Role:
+You are a Senior Software Architect, AI System Architect, and QA Automation Platform Architect.
+
+
+Context:
+
+I have created complete AI-QA-OS documentation in multiple Markdown files.
+
+These Markdown files represent the complete vision and design of my AI-powered QA automation operating system.
+
+
+Your task is to analyze these files and understand the complete system before creating any architecture.
+
+
+==================================================
+
+PHASE 1 - DOCUMENT ANALYSIS ONLY
+
+==================================================
+
+
+Read all Markdown (.md) files carefully.
+
+Upload:
+    |
+    ├── AI-QA-OS-Instruction.txt
+    |
+    ├── 01_Architecture.md
+    ├── 02_AI_AGENT.md
+    ├── 03_MCP_SERVER.md
+    ├── 04_AUTOMATION_ENGINE.md
+    ├── 05_EXECUTION_ENGINE.md
+    ├── 06_REPORTING_ENGINE.md
+    ├── 07_DATA_INTELLIGENCE_ENGINE.md
+    ├── 08_SECURITY_ENGINE.md
+    ├── 09_LEARNING_ENGINE.md
+    ├── 10_INTEGRATION_ENGINE.md
+    ├── 11_FRAMEWORK_ENGINE.md
+    ├── 12_AI_TEST_REPORT_INTELLIGENCE_ENGINE.md
+    └── 13_AI_TEST_DATA_INTELLIGENCE_ENGINE.md
+
+
+Cloud AI Prompt:
+
+"Follow the instruction file and analyze all markdown documents."
+
+
+Do NOT create project structure yet.
+
+
+Do NOT suggest implementation yet.
+
+
+First create a complete understanding report.
+
+
+The report must include:
+
+
+1. System Overview
+
+2. All AI Agents Identification
+
+3. All MCP Servers Identification
+
+4. All Engines Identification
+
+5. All Automation Components
+
+6. All Data Components
+
+7. All Reporting Components
+
+8. All Security Components
+
+9. All Learning Components
+
+10. Complete End-to-End Workflow Understanding
+
+
+For every module explain:
+
+
+Module Name:
+
+Purpose:
+
+Input:
+
+Processing:
+
+Output:
+
+Dependencies:
+
+Integration Points:
+
+
+
+==================================================
+
+IMPORTANT RULE
+
+==================================================
+
+
+After completing the analysis:
+
+STOP.
+
+
+Ask for my confirmation.
+
+
+Do not generate:
+
+- Folder structure
+- Code structure
+- Database design
+- Technology stack
+- Implementation roadmap
+
+
+until I confirm.
+
+
+==================================================
+
+PHASE 2 - AFTER CONFIRMATION
+
+==================================================
+
+
+After my approval generate:
+
+
+1. Complete AI-QA-OS Architecture
+
+
+2. Enterprise Repository Structure
+
+
+3. Module Structure
+
+
+4. Java/Spring Boot Package Architecture
+
+
+5. AI Agent Architecture
+
+
+6. MCP Server Architecture
+
+
+7. Database Schema
+
+
+8. API Design
+
+
+9. Deployment Architecture
+
+
+10. Development Roadmap
+
+
+11. Implementation Priority
+
+
+==================================================
+
+FINAL GOAL
+
+==================================================
+
+
+Create an enterprise-level AI QA Operating System architecture based on my existing documentation.
+
+The output should be production-ready and suitable for starting actual development.
